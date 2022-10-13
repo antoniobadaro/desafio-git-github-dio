@@ -1,0 +1,2 @@
+Esse é um projeto básico que eu criei, seguindo o desafio de Projeta da DIO para praticar o uso do Git e GitHub.
+Aqui contém o código HTML e CSS de uma página web que eu criei exclusivamente para esse desafio
